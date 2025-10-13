@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T20:23:44.563262+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2025-10-13T21:27:13.695636+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 93,
       "titles": [
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -20,8 +20,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 20时23分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 21时27分]"
         },
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
+          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 21时27分]"
         },
         {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
@@ -150,17 +162,6 @@
           "time_info": "[01时21分 ~ 06时23分]"
         },
         {
-          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时23分]"
-        },
-        {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
           "url": "https://wallstreetcn.com/livenews/2986324",
           "source": "华尔街见闻-快讯",
@@ -174,6 +175,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://www.cls.cn/detail/2167646",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时27分]"
         },
         {
           "title": "特朗普释放信号：愿与中国达成协议",
@@ -210,6 +224,19 @@
           "time_info": "[10时01分 ~ 11时22分]"
         },
         {
+          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
+          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普称可能供乌战斧",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
           "source": "bilibili 热搜",
@@ -234,15 +261,18 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美国总统特朗普：以色列永远是美国的重要盟友。",
-          "url": "https://flash.jin10.com/detail/20251013200435547800",
-          "source": "金十数据",
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%B7%B2%E7%BB%93%E6%9D%9F%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            1
+            8,
+            15,
+            22,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 21时27分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：特朗普的加沙计划在巴勒斯坦建国问题上过于模糊，未明确约旦河西岸的角色。",
@@ -340,6 +370,17 @@
           "time_info": "[00时28分 ~ 04时27分]"
         },
         {
+          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
+          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普：（最新的）诺贝尔奖是颁给2024年的。",
           "url": "https://flash.jin10.com/detail/20251013051854020800",
           "source": "金十数据",
@@ -350,6 +391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时23分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列永远是美国的重要盟友。",
+          "url": "https://flash.jin10.com/detail/20251013200435547800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
@@ -376,18 +429,6 @@
           "time_info": "[05时21分 ~ 06时23分]"
         },
         {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.cls.cn/detail/2167646",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
-        },
-        {
           "title": "特朗普：卡塔尔应受到赞誉。",
           "url": "https://flash.jin10.com/detail/20251013051355686800",
           "source": "金十数据",
@@ -398,19 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
-          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时23分]"
         },
         {
           "title": "特朗普连说三遍战争结束了",
@@ -450,19 +478,6 @@
         },
         {
           "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%B7%B2%E7%BB%93%E6%9D%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时23分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
           "url": "https://www.douyin.com/hot/2268670",
           "source": "抖音",
           "ranks": [
@@ -487,17 +502,6 @@
           "time_info": "[17时17分 ~ 19时11分]"
         },
         {
-          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
-          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
-        },
-        {
           "title": "特朗普犹太裔女婿现身加沙",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
           "source": "百度热搜",
@@ -520,6 +524,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时40分 ~ 15时26分]"
+        },
+        {
+          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "特朗普称“加沙战争已结束”",
@@ -609,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普在以色列议会呼吁赦免内塔尼亚胡 引发司法干预争议",
+          "url": "https://flash.jin10.com/detail/20251013205841890800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "特朗普：加沙就像一个废墟。",
@@ -771,7 +797,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -804,7 +830,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -840,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "美国总统特朗普结束在以色列议会的讲话。",
+          "url": "https://flash.jin10.com/detail/20251013201514881800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
@@ -884,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "美国总统特朗普：我们将建立新的友谊纽带，以色列、美国和中东各国将很快更加安全。",
+          "url": "https://flash.jin10.com/detail/20251013201402312800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美两党围绕“停摆”继续缠斗甩锅 特朗普抽身访中东",
@@ -1054,7 +1102,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -1082,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时17分 ~ 20时23分]"
+        },
+        {
+          "title": "美股纳指期货涨2%，博通盘前涨超10%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
@@ -1141,6 +1200,39 @@
           "time_info": "16时18分"
         },
         {
+          "title": "博通美股盘前直线拉涨，涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/2986848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2986847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
+          "url": "https://flash.jin10.com/detail/20251013210050779800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美股期货高开逾1%，油价走高",
           "url": "https://wallstreetcn.com/livenews/2986340",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1245,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
           "url": "https://www.cls.cn/detail/2167222",
           "source": "财联社热门",
@@ -1163,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时17分 ~ 20时23分]"
+        },
+        {
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
@@ -1222,15 +1336,15 @@
           "time_info": "15时26分"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-13）",
+          "url": "https://flash.jin10.com/detail/20251013205238934800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "21时27分"
         },
         {
           "title": "美股期指集体反弹",
@@ -1247,7 +1361,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "以色列“无意再战”，伊朗：不信",
@@ -1284,6 +1398,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 11时22分]"
+        },
+        {
+          "title": "2025 乒乓球亚锦赛团体赛，中国 vs 伊朗第一局中，林诗栋 2-3 不敌本雅明，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1961149420411281890",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
+        },
+        {
+          "title": "林诗栋不敌15岁伊朗小将",
+          "url": "https://www.toutiao.com/trending/7560667001224433171/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
@@ -1336,7 +1472,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1347,7 +1483,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1398,6 +1534,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI携手博通打造自研AI芯片",
+          "url": "https://flash.jin10.com/detail/20251013210437196800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI与博通合作涵盖10GW算力，双方计划在2026年建立定制化数字中心。",
+          "url": "https://flash.jin10.com/detail/20251013210220848800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "据报道，OpenAI和博通计划合作开发专用于数据中心的定制芯片，预计将在2026年推出。",
+          "url": "https://wallstreetcn.com/livenews/2986844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI 宣布与博通达成多年芯片合作。",
+          "url": "https://flash.jin10.com/detail/20251013210034503800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1421,7 +1607,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -1455,9 +1641,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 21时27分]"
         }
       ]
     }
