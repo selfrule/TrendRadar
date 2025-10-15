@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:13:10.939816+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-10-15T14:21:07.849749+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -31,8 +31,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 13时13分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 14时21分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 14时21分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -62,29 +87,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时15分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 13时13分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 13时13分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -416,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "美法官再次裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -767,8 +780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时12分 ~ 13时13分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 14时21分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -973,11 +986,12 @@
             11,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 14时21分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -988,8 +1002,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 14时21分]"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -1034,7 +1048,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1045,7 +1059,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1056,7 +1070,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1067,7 +1081,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1078,7 +1092,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1089,7 +1103,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1157,6 +1171,19 @@
           "time_info": "10时24分"
         },
         {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 14时21分]"
+        },
+        {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
@@ -1180,18 +1207,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时23分 ~ 11时39分]"
-        },
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时13分]"
         },
         {
           "title": "金价银价跳水",
@@ -1329,11 +1344,12 @@
             9,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 14时21分]"
         }
       ]
     }
