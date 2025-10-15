@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T22:13:57.957761+08:00",
-  "total_titles_processed": 2136,
+  "generated_at": "2025-10-15T23:15:50.275920+08:00",
+  "total_titles_processed": 2221,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时14分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 23时15分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -71,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 23时15分]"
         },
         {
           "title": "特朗普施压米莱：选举没赢，美援就撤",
@@ -82,8 +82,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[08时54分 ~ 17时14分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时13分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -632,6 +632,18 @@
           "time_info": "[17时14分 ~ 18时16分]"
         },
         {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26realpos%3D29%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26pos%3D30%26dgr%3D0%26band_rank%3D29%26display_time%3D1760534842%26pre_seqid%3D17605348425960054469",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普抱怨称中国故意不买美国大豆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D6%26stream_entry_id%3D31%26realpos%3D6%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D6%26lcate%3D5001%26c_type%3D31%26display_time%3D1760501658%26pre_seqid%3D17605016581140244123121",
           "source": "微博",
@@ -836,7 +848,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -995,17 +1007,6 @@
           "time_info": "19时13分"
         },
         {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26realpos%3D29%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26pos%3D30%26dgr%3D0%26band_rank%3D29%26display_time%3D1760534842%26pre_seqid%3D17605348425960054469",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "美国总统特朗普：我喜欢美元。",
           "url": "https://flash.jin10.com/detail/20251015022046730800",
           "source": "金十数据",
@@ -1127,7 +1128,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1181,6 +1182,42 @@
           "time_info": "[04时14分 ~ 06时13分]"
         },
         {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时15分]"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时15分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时15分]"
+        },
+        {
           "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
           "url": "https://wallstreetcn.com/livenews/2988089",
           "source": "华尔街见闻-快讯",
@@ -1193,6 +1230,18 @@
           "time_info": "[17时14分 ~ 18时16分]"
         },
         {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时15分]"
+        },
+        {
           "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
           "url": "https://wallstreetcn.com/livenews/2988053",
           "source": "华尔街见闻-快讯",
@@ -1202,28 +1251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        },
-        {
-          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美股三大指数集体高开 百度涨近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -1259,24 +1286,13 @@
           "time_info": "21时28分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2988290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "美股开盘，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。科技股集体反弹，英伟达(NVDA.O)涨2.6%，特斯拉(TSLA.O)涨1.35%。纳斯达克中国金龙指数涨1.58%，阿里巴巴(BABA.N)涨2.7%，百度(BIDU.O)涨2.98%。",
           "url": "https://flash.jin10.com/detail/20251015213030075800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1290,17 +1306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2988279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -1383,7 +1388,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1395,6 +1400,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            18,
+            21,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时15分]"
         },
         {
           "title": "金价",
@@ -1443,19 +1462,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时16分 ~ 14时21分]"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 22时13分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -1540,6 +1546,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
           "url": "https://flash.jin10.com/detail/20251015051028696800",
           "source": "金十数据",
@@ -1549,6 +1566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美国财长贝森特：（谈黄金价格飙升）买家多于卖家。",
