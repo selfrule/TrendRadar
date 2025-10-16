@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T18:15:15.609143+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2025-10-16T19:11:29.606843+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -58,6 +58,17 @@
           "time_info": "[05时13分 ~ 10时23分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普威胁更换2028年奥运举办地",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26realpos%3D26%26band_rank%3D26%26display_time%3D1760552209%26pre_seqid%3D17605522093420153167144",
           "source": "微博",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -163,6 +163,18 @@
           "time_info": "[08时55分 ~ 10时23分]"
         },
         {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -172,18 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
-          "title": "特朗普回应发军饷：有位绅士愿意付",
-          "url": "https://www.toutiao.com/trending/7560868714460823595/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
@@ -211,6 +211,17 @@
           "time_info": "[08时55分 ~ 13时14分]"
         },
         {
+          "title": "特朗普政府批准16亿美元贷款担保 支持电网升级",
+          "url": "https://flash.jin10.com/detail/20251016184111812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "【特朗普称印度承诺停止购买俄罗斯石油，印方回应：优先考虑消费者利益】据法新社最新消息，美国总统特朗普透露印度已承诺将停止购买俄罗斯石油后，印方周四（16日）表示，在能源领域将优先考虑印度消费者的利益。 “在动荡的能源形势下，维护印度消费者的利益一直是我们的首要任务。”印度外交部发言人兰迪尔·贾伊斯瓦尔在一份声明中表示，“我们的进口政策完全以这一目标为指导。” 法新社称，新德里方面既没有证实也没有否认该国在购买俄罗斯石油政策上的转变。 贾伊斯瓦尔补充说，“确保稳定的能源价格和有保障供应一直是我们能源政策的两大目标”，“这包括扩大我们的能源采购范围，并适时进行多元化调整以适应市场变化”。 （环球网）",
           "url": "https://wallstreetcn.com/livenews/2988743",
           "source": "华尔街见闻-快讯",
@@ -220,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -287,6 +309,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 17时15分]"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
@@ -359,17 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时17分]"
-        },
-        {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
@@ -523,6 +546,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
+          "url": "https://flash.jin10.com/detail/20251016181333778800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
           "url": "https://wallstreetcn.com/livenews/2988432",
           "source": "华尔街见闻-快讯",
@@ -545,6 +579,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
           "url": "https://flash.jin10.com/detail/20251015231339086800",
           "source": "金十数据",
@@ -565,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016181128488800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "据CNN：美国总统特朗普表示，如果哈马斯不遵守停火协议，以色列军队将“随时听候我的命令”在加沙地带恢复战斗。",
@@ -776,6 +832,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "特朗普下月或亲赴美最高法院“督战”",
+          "url": "https://www.toutiao.com/trending/7561326265605898276/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
           "url": "https://flash.jin10.com/detail/20251016043033249800",
           "source": "金十数据",
@@ -856,7 +923,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -907,11 +974,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时23分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 19时11分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -947,7 +1015,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1046,6 +1114,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
           "url": "https://flash.jin10.com/detail/20251016114935655800",
           "source": "金十数据",
@@ -1066,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金午盘价为967.46元/克，较国际金价(969.66元/克)，低2.2元/克",
@@ -1090,6 +1180,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "金价会掉头向下吗",
+          "url": "https://www.toutiao.com/trending/7561745310884564523/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
           "url": "https://flash.jin10.com/detail/20251015222750293800",
           "source": "金十数据",
@@ -1104,7 +1205,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -1281,6 +1382,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
+          "url": "https://wallstreetcn.com/livenews/2988942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/2988706",
           "source": "华尔街见闻-快讯",
@@ -1305,11 +1417,12 @@
             7,
             9,
             8,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 19时11分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
