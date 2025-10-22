@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T08:56:42.147769+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-10-22T10:28:27.277809+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -66,11 +66,12 @@
             25,
             4,
             2,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -130,20 +131,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "高市早苗将晤特朗普 阐释日本加强国防计划",
-          "url": "https://flash.jin10.com/detail/20251022083820008800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -152,9 +142,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -163,9 +153,53 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
+          "title": "高市早苗将晤特朗普 阐释日本加强国防计划",
+          "url": "https://flash.jin10.com/detail/20251022083820008800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普或向司法部索赔2.3亿美元 资金可能用于翻修白宫",
+          "url": "https://flash.jin10.com/detail/20251022100040568800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "美国弗吉尼亚大学即将与特朗普政府达成协议以结束调查。",
+          "url": "https://flash.jin10.com/detail/20251022100036469800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
@@ -177,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：美国总统特朗普将于10月27日至29日访日。特朗普访日期间将会见日本天皇和日本首相高市早苗。",
+          "url": "https://wallstreetcn.com/livenews/2991581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
@@ -469,6 +514,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
+          "url": "https://wallstreetcn.com/articles/3757603",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
           "url": "https://flash.jin10.com/detail/20251022005531621800",
           "source": "金十数据",
@@ -623,6 +679,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美国总统特朗普：今天与印度总理莫迪通了话。",
           "url": "https://flash.jin10.com/detail/20251022043713277800",
           "source": "金十数据",
@@ -739,9 +806,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普对俄乌和谈态度再变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -761,6 +839,17 @@
           "time_info": "[00时18分 ~ 06时13分]"
         },
         {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
           "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -772,15 +861,16 @@
           "time_info": "07时14分"
         },
         {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
+          "url": "https://www.cls.cn/detail/2176345",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时28分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -803,18 +893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
-          "url": "https://www.cls.cn/detail/2176345",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 08时56分]"
         },
         {
           "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
@@ -933,29 +1011,31 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "国际金价突然大跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
           "url": "https://www.toutiao.com/trending/7563613729208667702/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "金价",
@@ -972,15 +1052,15 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
-          "title": "国际金价一度暴跌6%",
-          "url": "https://www.toutiao.com/trending/7563812032793808394/",
-          "source": "今日头条",
+          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
+          "url": "https://www.cls.cn/detail/2176453",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时28分"
         },
         {
           "title": "国际金价大跌原因",
@@ -996,27 +1076,41 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
+          "title": "国际金价一度暴跌6%",
+          "url": "https://www.toutiao.com/trending/7563812032793808394/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
           "title": "金价银价急跌",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
           "source": "微博",
           "ranks": [
             24,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时28分]"
         },
         {
           "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
           "url": "https://www.cls.cn/detail/2176255",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -1030,6 +1124,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26dgr%3D0%26band_rank%3D25%26flag%3D1%26pos%3D25%26stream_entry_id%3D31%26display_time%3D1761100088%26pre_seqid%3D17611000889270312270524",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
           "url": "https://flash.jin10.com/detail/20251021233035750800",
           "source": "金十数据",
@@ -1039,12 +1144,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "金价银价急跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D30%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26band_rank%3D30%26flag%3D1%26pos%3D30%26stream_entry_id%3D31%26display_time%3D1761100088%26pre_seqid%3D17611000889270312270524",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -1082,6 +1198,18 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
           "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
           "url": "https://flash.jin10.com/detail/20251022054430700800",
           "source": "金十数据",
@@ -1117,15 +1245,88 @@
           "time_info": "04时15分"
         },
         {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
+          "url": "https://flash.jin10.com/detail/20251022010254471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "OpenAI首个AI浏览器发布",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
+          "url": "https://wallstreetcn.com/livenews/2991350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时18分]"
+        },
+        {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
+          "url": "https://flash.jin10.com/detail/20251022003437397800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         }
       ]
     },
@@ -1142,8 +1343,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1188,8 +1389,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时28分]"
         },
         {
           "title": "DeepSeek新模型速览",
@@ -1198,71 +1399,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
-          "url": "https://flash.jin10.com/detail/20251022010254471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
-          "url": "https://wallstreetcn.com/livenews/2991350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时18分]"
-        },
-        {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
-          "url": "https://flash.jin10.com/detail/20251022012656788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
-          "url": "https://flash.jin10.com/detail/20251022003437397800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         }
       ]
     },
@@ -1397,7 +1536,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
