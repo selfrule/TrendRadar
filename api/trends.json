@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T22:14:02.020268+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-10-27T23:14:05.274110+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -41,6 +41,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 10时50分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时17分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "特朗普访问日本",
@@ -94,28 +118,15 @@
           "time_info": "[00时13分 ~ 07时13分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普谈南海坠机：或用了劣质燃料",
-          "url": "https://www.toutiao.com/trending/7565133400080846342/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -130,15 +141,17 @@
           "time_info": "[00时13分 ~ 06时13分]"
         },
         {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
           "ranks": [
-            5
+            16,
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -153,6 +166,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时13分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
@@ -240,30 +267,17 @@
           "time_info": "[14时21分 ~ 16时19分]"
         },
         {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            9
+            12,
+            29,
+            24
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时14分]"
-        },
-        {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时14分]"
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -353,16 +367,16 @@
           "time_info": "[09时01分 ~ 11时48分]"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            29
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时14分]"
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 23时14分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -398,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普谈美军机南海坠毁原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D5%26realpos%3D6%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D6%26filter_type%3Drealtimehot%26cate%3D5001%26display_time%3D1761577810%26pre_seqid%3D176157781062302758102127",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国总统特朗普：将确保牧场不受损害。",
@@ -483,15 +508,15 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "title": "特朗普：愿为金正恩延长亚洲行程",
+          "url": "https://www.toutiao.com/trending/7565122061997785115/",
           "source": "今日头条",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "日本天皇亲自在门外接送特朗普",
@@ -503,6 +528,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "专家：特朗普亚洲行难逼东盟反华",
+          "url": "https://www.toutiao.com/trending/7565819689851440681/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "加拿大搬出里根“打脸”特朗普后，不出意外的遭到关税威胁",
@@ -522,7 +558,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1028,7 +1064,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1042,17 +1078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1077,6 +1102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时14分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -1154,7 +1191,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -1162,7 +1199,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -1237,6 +1274,28 @@
           "time_info": "18时17分"
         },
         {
+          "title": "市场分析：贸易乐观情绪或触发金价短期回调",
+          "url": "https://flash.jin10.com/detail/20251027223123499800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "国际金价跌穿4000美元关口，抛售加剧",
+          "url": "https://wallstreetcn.com/livenews/2994415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
           "url": "https://flash.jin10.com/detail/20251027205309686800",
           "source": "金十数据",
@@ -1306,7 +1365,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -1327,8 +1386,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
+          "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
+          "url": "https://wallstreetcn.com/articles/3757941",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
