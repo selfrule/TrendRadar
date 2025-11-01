@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T11:41:15.477917+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-11-01T12:14:36.385069+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -42,6 +42,18 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 12时14分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
           "url": "https://www.zhihu.com/question/1967494414290084753",
           "source": "知乎",
@@ -58,18 +70,6 @@
           "time_info": "[00时15分 ~ 09时00分]"
         },
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 11时41分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -79,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 11时41分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时14分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -178,6 +178,17 @@
           "time_info": "[05时12分 ~ 09时00分]"
         },
         {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 12时14分]"
+        },
+        {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
           "url": "https://wallstreetcn.com/livenews/2997857",
           "source": "华尔街见闻-快讯",
@@ -252,17 +263,6 @@
           "time_info": "[03时10分 ~ 04时15分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 11时41分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
           "url": "https://flash.jin10.com/detail/20251101031047264800",
           "source": "金十数据",
@@ -273,6 +273,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时15分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时14分]"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
@@ -334,17 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
@@ -426,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
@@ -594,11 +605,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 12时14分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -609,8 +621,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 11时41分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时14分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时14分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -637,19 +662,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时15分 ~ 09时00分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 11时41分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -692,6 +704,17 @@
           "time_info": "[05时12分 ~ 09时00分]"
         },
         {
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 12时14分]"
+        },
+        {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
           "url": "https://wallstreetcn.com/livenews/2997896",
           "source": "华尔街见闻-快讯",
@@ -704,17 +727,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 09时00分]"
-        },
-        {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 11时41分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -766,8 +778,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时13分 ~ 11时41分]"
+          "appearance_count": 8,
+          "time_info": "[06时13分 ~ 12时14分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
