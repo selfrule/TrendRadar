@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:16:05.843969+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-11-04T13:15:40.973270+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 12时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时15分]"
+        },
+        {
+          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
+          "url": "https://www.cls.cn/detail/2190068",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -82,8 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 12时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时15分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -99,15 +124,16 @@
           "time_info": "[00时15分 ~ 08时56分]"
         },
         {
-          "title": "特朗普：美核武可毁灭世界150次",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
+          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
           "source": "凤凰网",
           "ranks": [
-            1
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "特朗普：和中国合作能让我们更强大",
@@ -120,31 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时19分]"
-        },
-        {
-          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
-          "url": "https://www.cls.cn/detail/2190068",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 12时16分]"
-        },
-        {
-          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
-          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时16分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -169,8 +170,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时15分]"
+        },
+        {
+          "title": "美国多方“围剿”特朗普只为废除关税",
+          "url": "https://www.toutiao.com/trending/7568663171070692900/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -223,16 +237,15 @@
           "time_info": "[03时10分 ~ 05时13分]"
         },
         {
-          "title": "美国多方“围剿”特朗普只为废除关税",
-          "url": "https://www.toutiao.com/trending/7568663171070692900/",
+          "title": "特朗普改口不去全球关税合法性听证会",
+          "url": "https://www.toutiao.com/trending/7568682000622554660/",
           "source": "今日头条",
           "ranks": [
-            28,
-            20
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时15分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -305,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普改口不去全球关税合法性听证会",
-          "url": "https://www.toutiao.com/trending/7568682000622554660/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "最高法院裁决在即特朗普关税悬于一线",
@@ -441,8 +443,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -454,8 +456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 12时16分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 13时15分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -464,11 +466,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 13时15分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -708,8 +711,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 12时16分]"
+          "appearance_count": 10,
+          "time_info": "[06时13分 ~ 13时15分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -718,11 +721,12 @@
           "ranks": [
             12,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 13时15分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
@@ -820,8 +824,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 13时15分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -898,8 +902,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 12时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时15分]"
         }
       ]
     }
