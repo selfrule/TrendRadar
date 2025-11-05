@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:14:18.829538+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-11-05T14:19:43.292111+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时17分 ~ 07时22分]"
         },
         {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时19分]"
+        },
+        {
           "title": "佩洛西：特朗普是地表最坏的家伙",
           "url": "https://www.toutiao.com/trending/7567917613335494699/",
           "source": "今日头条",
@@ -35,18 +47,6 @@
           "time_info": "[00时17分 ~ 07时22分]"
         },
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时14分]"
-        },
-        {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
           "url": "https://news.ifeng.com/c/8o11vuaIumr",
           "source": "凤凰网",
@@ -58,17 +58,6 @@
           "time_info": "[10时31分 ~ 11时41分]"
         },
         {
-          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
-          "url": "https://flash.jin10.com/detail/20251105123816370800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -78,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时19分]"
         },
         {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
@@ -202,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时15分]"
+        },
+        {
+          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
+          "url": "https://flash.jin10.com/detail/20251105123816370800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时19分]"
         },
         {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
@@ -507,7 +508,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
@@ -538,8 +539,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时19分]"
+        },
+        {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时19分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -557,27 +569,17 @@
           "time_info": "[00时17分 ~ 11时41分]"
         },
         {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
-        },
-        {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
           "url": "https://www.zhihu.com/question/1969182296755122552",
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时19分]"
         },
         {
           "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
@@ -602,6 +604,19 @@
           "time_info": "08时59分"
         },
         {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 14时19分]"
+        },
+        {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251105013105408800",
           "source": "金十数据",
@@ -624,18 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时22分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时14分]"
         },
         {
           "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
@@ -853,8 +856,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时19分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -919,8 +922,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
         {
           "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
@@ -1106,7 +1120,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
@@ -1119,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时13分]"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：伊朗必须“认真改善”与联合国检查员的合作，以避免与西方的紧张关系加剧。",
+          "url": "https://flash.jin10.com/detail/20251105130320093800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "如何看待伊朗提出美伊合作三个条件",
