@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T14:19:43.292111+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-05T15:15:43.922309+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 15时15分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -47,17 +47,6 @@
           "time_info": "[00时17分 ~ 07时22分]"
         },
         {
-          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
-          "url": "https://news.ifeng.com/c/8o11vuaIumr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时41分]"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -67,8 +56,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 11时41分]"
         },
         {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
@@ -403,6 +403,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
+          "url": "https://wallstreetcn.com/livenews/2999698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
           "url": "https://wallstreetcn.com/livenews/2999308",
           "source": "华尔街见闻-快讯",
@@ -434,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -516,7 +538,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -539,8 +561,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 15时15分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -550,8 +572,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时15分]"
+        },
+        {
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时19分]"
+          "time_info": "[10时31分 ~ 15时15分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -569,17 +604,17 @@
           "time_info": "[00时17分 ~ 11时41分]"
         },
         {
-          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
-          "url": "https://www.zhihu.com/question/1969182296755122552",
-          "source": "知乎",
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3,
-            2
+            10,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时19分]"
+          "time_info": "[11时41分 ~ 15时15分]"
         },
         {
           "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
@@ -602,19 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时19分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -753,6 +775,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "诺和诺德第三季度销售额749.8亿丹麦克朗，预估766.8亿丹麦克朗。 第三季度净利润200.1亿丹麦克朗，预估208亿丹麦克朗。 第三季度EBIT 236.8亿丹麦克朗，预估256.1亿丹麦克朗。 第三季度GLP-1药物销售额367.4亿丹麦克朗，预估372.7亿丹麦克朗。 第三季度Wegovy销售额203.5亿丹麦克朗，预估209.4亿丹麦克朗。 诺和诺德预计全财年销售额（按固定汇率计算）增长8%-11%，此前预计增长8%-14%。 诺和诺德预计2025年资本支出为约600亿丹麦克朗，此前预计为650亿丹麦克朗。 诺和诺德美股夜盘跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2999684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
@@ -843,6 +876,91 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时15分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 13时14分]"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时18分]"
+        },
+        {
+          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
+          "url": "https://wallstreetcn.com/livenews/2999443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "日媒：软银和OpenAI将于11月成立新公司",
+          "url": "https://flash.jin10.com/detail/20251105111320968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "宇树科技王兴兴：当下具身机器人发展阶段类似于ChatGPT发布前的1—3年左右",
+          "url": "https://wallstreetcn.com/livenews/2999692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -853,11 +971,12 @@
           "ranks": [
             8,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时15分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -917,79 +1036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时14分]"
-        },
-        {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时18分]"
-        },
-        {
-          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
-          "url": "https://wallstreetcn.com/livenews/2999443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "日媒：软银和OpenAI将于11月成立新公司",
-          "url": "https://flash.jin10.com/detail/20251105111320968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         }
       ]
     },
@@ -1141,7 +1187,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1160,7 +1206,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
@@ -1173,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时12分]"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://wallstreetcn.com/livenews/2999697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     }
