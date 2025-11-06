@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T16:17:55.952250+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2025-11-06T17:15:19.351793+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 17时15分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -87,11 +87,12 @@
           "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时15分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -117,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时12分 ~ 16时17分]"
+          "appearance_count": 16,
+          "time_info": "[05时12分 ~ 17时15分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -145,6 +146,18 @@
           "time_info": "[08时56分 ~ 10时30分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 17时15分]"
+        },
+        {
           "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
           "url": "https://news.ifeng.com/c/8o36aXsrNEC",
           "source": "凤凰网",
@@ -154,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时17分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -437,9 +439,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "特朗普回应被纽约新市长演讲叫板",
+          "url": "https://www.toutiao.com/trending/7568666523620114483/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
@@ -591,7 +604,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -726,8 +739,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 17时15分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -1308,8 +1321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 17时15分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -1353,7 +1366,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
