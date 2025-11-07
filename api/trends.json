@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:26:11.747762+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2025-11-07T22:22:56.284328+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -13,17 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -38,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 21时26分]"
+          "appearance_count": 10,
+          "time_info": "[15时13分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -145,6 +145,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "市场消息：特朗普政府向第一巡回法院提交紧急延期动议，寻求阻止法官关于11月全额发放补充营养协助计划（SNAP）福利的裁决。",
+          "url": "https://flash.jin10.com/detail/20251107221627605800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
           "url": "https://wallstreetcn.com/livenews/3000794",
           "source": "华尔街见闻-快讯",
@@ -180,6 +191,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普回应佩洛西退休：对美国是件大好事",
           "url": "https://wallstreetcn.com/livenews/3000884",
           "source": "华尔街见闻-快讯",
@@ -189,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普媒体科技三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
+          "url": "https://wallstreetcn.com/livenews/3001276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -225,15 +258,17 @@
           "time_info": "14时22分"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时22分]"
         },
         {
           "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
@@ -322,19 +357,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时27分 ~ 13时15分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时26分]"
         },
         {
           "title": "特朗普就美高院激辩关税表态",
@@ -624,6 +646,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度净亏损5480万美元。",
+          "url": "https://flash.jin10.com/detail/20251107220224855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
           "url": "https://wallstreetcn.com/livenews/3000826",
           "source": "华尔街见闻-快讯",
@@ -646,6 +679,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度从其他金融投资中产生1340万美元的利息收入，第三季度运营现金流达1010万美元。",
+          "url": "https://flash.jin10.com/detail/20251107220203696800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -655,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度末财务资产达31亿美元，第三季度通过比特币相关证券的期权溢价实现1530万美元收益。",
+          "url": "https://flash.jin10.com/detail/20251107220149666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普回应共和党选举失利",
@@ -721,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普再次呼吁废除冗长辩论程序",
+          "url": "https://flash.jin10.com/detail/20251107214340577800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
@@ -880,7 +946,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -944,6 +1010,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3001278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
           "url": "https://flash.jin10.com/detail/20251107114842148800",
           "source": "金十数据",
@@ -999,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107214841680800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1157,11 +1245,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时27分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时27分 ~ 22时22分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1293,8 +1382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时57分 ~ 21时26分]"
+          "appearance_count": 16,
+          "time_info": "[08时57分 ~ 22时22分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
