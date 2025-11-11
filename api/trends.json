@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T14:20:18.882016+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-11-11T15:13:44.233571+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,19 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时13分]"
+        },
+        {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
           "url": "https://flash.jin10.com/detail/20251111004607704800",
           "source": "金十数据",
@@ -127,19 +140,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时20分]"
-        },
-        {
           "title": "美国联邦航空管理局网站显示，尽管特朗普要求管制人员重返工作岗位，但目前仍有23个联邦航空管理局设施报告存在人员配置问题。",
           "url": "https://flash.jin10.com/detail/20251111063015742800",
           "source": "金十数据",
@@ -160,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
-          "url": "https://wallstreetcn.com/livenews/3002542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -209,6 +198,18 @@
           "time_info": "[03时10分 ~ 04时15分]"
         },
         {
+          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
+          "url": "https://wallstreetcn.com/livenews/3002542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时13分]"
+        },
+        {
           "title": "特朗普的“贸易战”收到了什么结果",
           "url": "https://www.toutiao.com/trending/7571084710177148454/",
           "source": "今日头条",
@@ -244,6 +245,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时13分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
@@ -366,17 +378,6 @@
           "time_info": "[06时14分 ~ 07时12分]"
         },
         {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "特朗普敦促空中交通管制员立即复工",
           "url": "https://flash.jin10.com/detail/20251110233828447800",
           "source": "金十数据",
@@ -405,7 +406,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -438,7 +439,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -698,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 15时13分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -711,8 +712,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 15时13分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -744,6 +745,19 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 15时13分]"
+        },
+        {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -753,18 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 14时20分]"
         },
         {
           "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场其机器人感到乐观。",
@@ -1053,7 +1055,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -1099,6 +1101,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
+          "url": "https://flash.jin10.com/detail/20251111144640620800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
+          "url": "https://wallstreetcn.com/livenews/3002563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -1124,7 +1148,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
