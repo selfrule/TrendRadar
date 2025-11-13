@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-13T16:18:18.090850+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2025-11-13T17:16:11.981550+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
+          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时16分]"
+        },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
           "url": "https://wallstreetcn.com/articles/3759245",
@@ -20,20 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时13分 ~ 16时18分]"
-        },
-        {
-          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
-          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 16时18分]"
+          "appearance_count": 24,
+          "time_info": "[01时13分 ~ 17时16分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -44,8 +44,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时16分]"
+        },
+        {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
+          "time_info": "[15时13分 ~ 17时16分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -73,18 +85,6 @@
           "time_info": "[11时43分 ~ 15时13分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时18分]"
-        },
-        {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
           "url": "https://flash.jin10.com/detail/20251113143255350800",
           "source": "金十数据",
@@ -102,9 +102,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 17时16分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -157,6 +170,17 @@
           "time_info": "[13时14分 ~ 14时20分]"
         },
         {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 17时16分]"
+        },
+        {
           "title": "特朗普：共和党人从未希望政府停摆，并曾15次投票支持继续拨款。然而，对方政党的极端分子却执意制造美国历史上持续时间最长的政府停摆，他们这样做纯粹是出于政治原因。",
           "url": "https://flash.jin10.com/detail/20251113112722111800",
           "source": "金十数据",
@@ -193,19 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "特朗普签署临时拨款法案，持续43天的美国政府史上最长“停摆”结束。",
@@ -255,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时18分]"
         },
         {
           "title": "特朗普：政府将恢复正常运作。",
@@ -421,6 +421,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "特朗普问叙利亚领导人有几个老婆",
@@ -649,6 +660,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时16分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -682,17 +704,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
