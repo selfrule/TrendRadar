@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:15:15.402696+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-11-19T18:15:11.221224+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 18时15分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -53,11 +54,12 @@
             10,
             8,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 18时15分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -186,6 +188,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时15分]"
+        },
+        {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3006680",
           "source": "华尔街见闻-快讯",
@@ -211,15 +224,15 @@
           "time_info": "[03时11分 ~ 04时25分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -280,17 +293,6 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
           "url": "https://wallstreetcn.com/livenews/3006650",
           "source": "华尔街见闻-快讯",
@@ -301,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时19分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "特朗普为何在爱泼斯坦案上罕见低头",
@@ -907,6 +920,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 18时15分]"
+        },
+        {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
           "url": "https://wallstreetcn.com/livenews/3006896",
           "source": "华尔街见闻-快讯",
@@ -942,17 +967,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时13分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1115,8 +1129,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 18时15分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[08时56分 ~ 17时15分]"
+          "time_info": "[11时40分 ~ 18时15分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1159,24 +1186,12 @@
             6,
             7,
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 17时15分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 18时15分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1225,8 +1240,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 18时15分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -1457,8 +1472,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 18时15分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
