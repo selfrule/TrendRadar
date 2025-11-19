@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T07:12:04.476004+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-11-19T08:56:49.787831+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时12分]"
+        },
+        {
+          "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
+          "url": "https://www.cls.cn/detail/2204401",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3006816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -37,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -59,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -70,9 +92,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周三中午在华盛顿举行的美沙投资论坛上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251119080838378800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -181,6 +214,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
+          "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美国总统特朗普：以色列和沙特都应获得最先进的F-35型战机。",
           "url": "https://flash.jin10.com/detail/20251119014756000800",
           "source": "金十数据",
@@ -209,7 +264,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -236,6 +291,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美法院维持驳回特朗普对CNN的诽谤诉讼",
+          "url": "https://flash.jin10.com/detail/20251119075409041800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "特朗普称他“与家族业务没有任何关系”",
           "url": "https://wallstreetcn.com/livenews/3006707",
           "source": "华尔街见闻-快讯",
@@ -245,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美国白宫：特朗普将于当地时间周三中午在华盛顿出席美沙投资论坛并发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3006804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：沙特的F-35战机与以色列的相似。",
@@ -352,7 +429,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -423,13 +500,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "据福克斯新闻：美国财长贝森特表示，特朗普将在感恩节后会见三位美联储主席候选人。可以肯定地说，我不会成为美联储主席。",
+          "url": "https://flash.jin10.com/detail/20251119072730622800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "特朗普呼吁就AI监管制定“统一的联邦标准”",
           "url": "https://wallstreetcn.com/livenews/3006752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -489,6 +577,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "据福克斯新闻：美国财长贝森特表示，美国总统特朗普可能在圣诞节前宣布下一任美联储主席。",
+          "url": "https://flash.jin10.com/detail/20251119071342327800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美国总统特朗普：卡特彼勒(CAT.N)表现得很出色。",
           "url": "https://flash.jin10.com/detail/20251119013910878800",
           "source": "金十数据",
@@ -531,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3006785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：沙特已同意对美国投资6000亿美元，这个数字可能还会上升。",
@@ -580,7 +690,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -610,11 +720,24 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时56分]"
+        },
+        {
+          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2204381",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时56分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -627,17 +750,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2204381",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "半导体ETF收跌超2%，领跌美股行业ETF，银行ETF涨超0.8%，标普可选消费板块跌2.5%",
@@ -675,13 +787,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美股科技股遭抛售 英伟达跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006756",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -692,7 +815,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -708,13 +831,24 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美股4连跌",
+          "url": "https://www.toutiao.com/trending/7573146662664355894/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.18%，报292.90点。 纽约证交所ARCA金矿开采商指数收平，报2124.04点，北京时间22:30美股开盘之前跌至2110点下方，随后反弹至接近2140点的水平，之后出现V形反转——00:03曾跌至2093.40点刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3006750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -777,7 +911,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌正式发布Gemini3",
@@ -787,11 +921,12 @@
             5,
             3,
             16,
-            13
+            13,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时12分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 08时56分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -807,6 +942,28 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
           "url": "https://wallstreetcn.com/livenews/3006669",
           "source": "华尔街见闻-快讯",
@@ -817,6 +974,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -888,8 +1056,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "沙特王储访美前收到伊朗总统来信",
+          "url": "https://wallstreetcn.com/livenews/3006815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
         {
           "title": "沙特王储：将尽最大努力推动伊朗协议。",
           "url": "https://flash.jin10.com/detail/20251119014943997800",
@@ -1006,7 +1185,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
