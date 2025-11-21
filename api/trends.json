@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T15:14:21.495901+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-11-21T16:18:32.322871+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -147,6 +148,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时18分]"
+        },
+        {
           "title": "特朗普：民主党的麻烦比共和党大得多",
           "url": "https://www.toutiao.com/trending/7574043619188277254/",
           "source": "今日头条",
@@ -194,17 +207,6 @@
           "time_info": "[02时19分 ~ 03时10分]"
         },
         {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时14分]"
-        },
-        {
           "title": "特朗普计划让俄用钱“买”顿巴斯",
           "url": "https://www.toutiao.com/trending/7574756757356940838/",
           "source": "今日头条",
@@ -225,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
+          "url": "https://wallstreetcn.com/livenews/3008527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
@@ -266,7 +279,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -414,6 +427,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "特朗普以死刑威胁多名民主党议员",
+          "url": "https://www.toutiao.com/trending/7574638830679195689/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "特朗普：鲍威尔精神有点问题",
           "url": "https://www.toutiao.com/trending/7574674547224510470/",
           "source": "今日头条",
@@ -453,6 +477,17 @@
       "match_count": 35,
       "titles": [
         {
+          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
+          "url": "https://www.cls.cn/detail/2206823",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 16时18分]"
+        },
+        {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
           "url": "https://www.cls.cn/detail/2206810",
           "source": "财联社热门",
@@ -465,15 +500,17 @@
           "time_info": "[07时12分 ~ 15时14分]"
         },
         {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时56分 ~ 15时14分]"
+          "time_info": "[10时26分 ~ 16时18分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -490,19 +527,6 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
-        },
-        {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
           "url": "https://wallstreetcn.com/articles/3759847",
           "source": "华尔街见闻",
@@ -513,8 +537,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 16时18分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -522,11 +546,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 16时18分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -535,11 +560,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时18分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -551,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 16时18分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -606,11 +632,24 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            25
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 16时18分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时14分]"
+          "time_info": "[14时19分 ~ 16时18分]"
         },
         {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
@@ -646,18 +685,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时14分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -1104,7 +1131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -1211,11 +1238,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -1248,7 +1276,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
