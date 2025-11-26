@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T22:14:05.673956+08:00",
-  "total_titles_processed": 2049,
+  "generated_at": "2025-11-26T23:12:41.292846+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时18分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[16时18分 ~ 23时12分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -192,6 +192,19 @@
           "time_info": "[08时57分 ~ 15时13分]"
         },
         {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时12分]"
+        },
+        {
           "title": "2026年11月深圳的APEC会议，特朗普要来了？",
           "url": "https://news.ifeng.com/c/8oZweOPfKbO",
           "source": "凤凰网",
@@ -204,18 +217,6 @@
           "time_info": "[08时57分 ~ 15时13分]"
         },
         {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时25分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普想把特赦火鸡命名为佩洛西",
           "url": "https://www.douyin.com/hot/2318082",
           "source": "抖音",
@@ -225,6 +226,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时12分]"
         },
         {
           "title": "美财长：特朗普明年或两次访华",
@@ -292,18 +306,6 @@
           "time_info": "[10时43分 ~ 14时20分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时25分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普表示无意延长奥巴马医保补贴政策",
           "url": "https://flash.jin10.com/detail/20251126083927911800",
           "source": "金十数据",
@@ -324,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普感恩节特赦火鸡",
@@ -662,6 +675,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "外媒：泽连斯基希望在感恩节期间与特朗普会面 敲定和平协议",
           "url": "https://flash.jin10.com/detail/20251126002358851800",
           "source": "金十数据",
@@ -904,6 +928,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "特朗普称不再给乌克兰设最后期限",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国总统特朗普：（俄乌）达成协议没有设定最后期限。",
           "url": "https://flash.jin10.com/detail/20251126080148056800",
           "source": "金十数据",
@@ -985,8 +1020,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时57分 ~ 22时14分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 23时12分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -1007,11 +1042,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时43分 ~ 22时14分]"
+          "appearance_count": 19,
+          "time_info": "[10时43分 ~ 23时12分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -1072,8 +1108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时15分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[17时15分 ~ 23时12分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -1202,6 +1238,17 @@
           "time_info": "[03时11分 ~ 04时14分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时12分]"
+        },
+        {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3010785",
           "source": "华尔街见闻-快讯",
@@ -1212,17 +1259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时15分]"
-        },
-        {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
@@ -1330,7 +1366,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -1360,15 +1396,15 @@
           "time_info": "[01时14分 ~ 07时12分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3010933",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251126224412823800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "23时12分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -1380,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股收盘）",
@@ -1415,6 +1462,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时12分]"
         },
         {
           "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
@@ -1488,6 +1547,39 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指开涨0.56%。理想汽车(LI.O)跌1.4%，公司对第四季度营收指引低于市场预估，Alphabet(GOOG.O)跌0.47%。英伟达(NVDA.O)涨1.7%，AMD(AMD.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251126223027730800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2212003",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.73%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.13%，银行业ETF回撤0.13%，区域银行ETF回调0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3010940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
           "url": "https://flash.jin10.com/detail/20251126050102870800",
           "source": "金十数据",
@@ -1541,6 +1633,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时14分 ~ 23时12分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时30分 ~ 23时12分]"
+        },
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时13分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时12分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)在德意志银行指出其受益于OpenAI后开盘上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126223134754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -1617,72 +1788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时14分 ~ 22时14分]"
-        },
-        {
-          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3010926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时13分]"
-        },
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时30分 ~ 22时14分]"
-        },
-        {
-          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
-          "url": "https://flash.jin10.com/detail/20251126153143429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         }
       ]
     },
