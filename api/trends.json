@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T16:19:12.558168+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2025-11-27T17:14:52.402250+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -53,11 +53,12 @@
             21,
             2,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 17时14分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -69,11 +70,12 @@
             13,
             14,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -85,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 17时14分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -97,11 +99,12 @@
             18,
             17,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 17时14分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -119,6 +122,32 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 17时14分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            11,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时14分]"
+        },
+        {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
           "url": "https://www.cls.cn/detail/2212154",
           "source": "财联社热门",
@@ -133,15 +162,18 @@
           "time_info": "[08时56分 ~ 15时15分]"
         },
         {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            20,
+            19,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时17分 ~ 16时19分]"
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -153,33 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时56分 ~ 14时20分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            7,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 16时19分]"
-        },
-        {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 16时19分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -354,6 +359,17 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时14分]"
+        },
+        {
           "title": "关系持续恶化 特朗普宣称将南非排除出明年的迈阿密G20峰会",
           "url": "https://flash.jin10.com/detail/20251127052552606800",
           "source": "金十数据",
@@ -423,17 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "美高官密集造访加勒比 特朗普：可能会与马杜罗对话",
@@ -699,7 +704,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -709,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 17时14分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -769,8 +774,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 17时14分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -784,6 +789,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时12分 ~ 11时41分]"
+        },
+        {
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -872,8 +888,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 17时14分]"
         }
       ]
     },
