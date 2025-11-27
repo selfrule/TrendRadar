@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T19:12:06.624855+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-11-27T20:24:53.263128+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -56,11 +56,12 @@
             13,
             17,
             20,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -76,8 +77,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 20时24分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -94,8 +95,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时16分 ~ 19时12分]"
+          "appearance_count": 28,
+          "time_info": "[00时16分 ~ 20时24分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -108,11 +109,12 @@
             16,
             15,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 20时24分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -526,6 +528,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美特使手把手教俄罗斯如何说服特朗普",
           "url": "https://www.toutiao.com/trending/7577184408361242121/",
           "source": "今日头条",
@@ -723,7 +736,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -733,8 +746,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -749,17 +762,6 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时11分]"
-        },
-        {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
@@ -770,8 +772,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[15时14分 ~ 20时24分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -847,6 +860,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时16分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
@@ -881,6 +905,17 @@
           "time_info": "[00时16分 ~ 04时14分]"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 20时24分]"
+        },
+        {
           "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
           "url": "https://flash.jin10.com/detail/20251127064701943800",
           "source": "金十数据",
@@ -890,17 +925,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 19时12分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
