@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T12:16:04.011069+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2025-11-29T13:13:06.056599+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -62,6 +62,23 @@
           "time_info": "[04时14分 ~ 11时41分]"
         },
         {
+          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
+          "url": "https://wallstreetcn.com/livenews/3012397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            11,
+            19,
+            23,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 13时13分]"
+        },
+        {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
           "url": "https://flash.jin10.com/detail/20251129033025451800",
           "source": "金十数据",
@@ -88,22 +105,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时17分 ~ 07时12分]"
-        },
-        {
-          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
-          "url": "https://wallstreetcn.com/livenews/3012397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            11,
-            19,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时12分 ~ 12时16分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -187,6 +188,20 @@
           "time_info": "[04时14分 ~ 07时12分]"
         },
         {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时13分]"
+        },
+        {
           "title": "曝特朗普已与马杜罗通话",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E4%B8%8E%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%80%9A%E8%AF%9D",
           "source": "百度热搜",
@@ -211,19 +226,6 @@
           "time_info": "[04时13分 ~ 06时12分]"
         },
         {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时16分]"
-        },
-        {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
           "url": "https://news.ifeng.com/c/8ofXQZzhOkY",
           "source": "凤凰网",
@@ -233,6 +235,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普“和平新计划”为何会再次落空",
+          "url": "https://www.toutiao.com/trending/7576949262657126419/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "马斯克特朗普共进感恩节晚餐",
@@ -263,6 +287,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 13时13分]"
+        },
+        {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
@@ -289,16 +325,16 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时12分]"
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -331,17 +367,6 @@
           "time_info": "[04时14分 ~ 12时16分]"
         },
         {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 12时16分]"
-        },
-        {
           "title": "美股三大指数收涨 英特尔暴涨10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E6%B6%A810%25",
           "source": "百度热搜",
@@ -363,11 +388,12 @@
             9,
             17,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 13时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
@@ -537,7 +563,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -545,11 +571,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
@@ -561,6 +599,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "国际金价又涨了",
+          "url": "https://www.douyin.com/hot/2321048",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         }
       ]
     },
@@ -629,23 +696,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时55分 ~ 11时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
         }
       ]
     },
