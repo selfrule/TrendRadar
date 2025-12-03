@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:14:29.591625+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-03T14:20:58.712470+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 14时20分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -62,11 +62,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 14时20分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -668,7 +669,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -919,8 +920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -932,8 +933,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1110,8 +1111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1159,8 +1160,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时20分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
