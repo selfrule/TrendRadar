@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:12:16.979824+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-12-07T09:04:00.728794+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -21,17 +21,6 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
-          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
-          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
           "url": "https://v.ifeng.com/c/8oreqqskdgg",
           "source": "凤凰网",
@@ -39,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时04分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -48,7 +37,19 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时04分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -70,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时04分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -122,8 +123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时04分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -132,7 +133,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -152,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时04分]"
         }
       ]
     },
