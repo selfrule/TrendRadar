@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:22:12.118725+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-12-13T22:12:18.910764+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时44分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时44分 ~ 22时12分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -68,11 +68,28 @@
             21,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时15分 ~ 21时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 22时12分]"
+        },
+        {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -87,19 +104,19 @@
           "time_info": "[07时13分 ~ 10时30分]"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
           "ranks": [
-            18,
+            17,
             15,
+            14,
             13,
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时16分 ~ 21时22分]"
+          "time_info": "[17时12分 ~ 22时12分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -129,21 +146,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时30分 ~ 14时19分]"
-        },
-        {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时22分]"
         },
         {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
@@ -204,17 +206,6 @@
           "time_info": "[05时12分 ~ 10时30分]"
         },
         {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
           "url": "https://flash.jin10.com/detail/20251213092310404800",
           "source": "金十数据",
@@ -228,6 +219,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时30分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 22时12分]"
         },
         {
           "title": "特朗普提议中美俄印日联盟",
@@ -370,19 +375,6 @@
           "time_info": "[03时12分 ~ 07时13分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时22分]"
-        },
-        {
           "title": "土耳其总统埃尔多安：希望在与俄罗斯总统普京会晤后，与美国总统特朗普讨论乌克兰—俄罗斯和平方案。",
           "url": "https://flash.jin10.com/detail/20251213180106229800",
           "source": "金十数据",
@@ -394,6 +386,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -461,6 +465,33 @@
           "time_info": "[01时13分 ~ 03时12分]"
         },
         {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时12分]"
+        },
+        {
+          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
+          "url": "https://wallstreetcn.com/livenews/3020226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -483,19 +514,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时22分]"
         },
         {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
@@ -522,18 +540,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 11时44分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时22分]"
         },
         {
           "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
@@ -738,11 +744,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 22时12分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -892,8 +899,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 22时12分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
