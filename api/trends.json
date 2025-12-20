@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T21:22:29.230303+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-12-20T22:12:27.500419+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -155,15 +155,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时12分"
         },
         {
           "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
@@ -205,6 +205,18 @@
           "time_info": "[06时13分 ~ 08时56分]"
         },
         {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
           "url": "https://wallstreetcn.com/livenews/3024186",
           "source": "华尔街见闻-快讯",
@@ -228,6 +240,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 10时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -266,18 +291,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 12时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时22分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -400,6 +413,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
+        },
+        {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
@@ -431,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
@@ -535,8 +549,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时56分 ~ 21时22分]"
+          "appearance_count": 20,
+          "time_info": "[08时56分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -549,8 +563,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时56分 ~ 21时22分]"
+          "appearance_count": 20,
+          "time_info": "[08时56分 ~ 22时12分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -575,8 +589,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时13分 ~ 21时22分]"
+          "appearance_count": 13,
+          "time_info": "[13时13分 ~ 22时12分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -614,11 +628,12 @@
             4,
             13,
             14,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -751,6 +766,18 @@
           "time_info": "[01时12分 ~ 11时45分]"
         },
         {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
           "url": "https://wallstreetcn.com/livenews/3024206",
           "source": "华尔街见闻-快讯",
@@ -765,39 +792,29 @@
           "time_info": "[08时56分 ~ 12时19分]"
         },
         {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时22分]"
-        },
-        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
         }
       ]
     },
@@ -826,11 +843,12 @@
             8,
             9,
             14,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -898,11 +916,12 @@
           "ranks": [
             6,
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
