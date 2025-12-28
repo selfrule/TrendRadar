@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:23:46.536698+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-12-28T21:25:09.517960+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 20时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时17分 ~ 21时25分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -101,6 +101,17 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 21时25分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时14分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时23分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -245,8 +245,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时31分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时31分 ~ 21时25分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -336,8 +336,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 21时25分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
