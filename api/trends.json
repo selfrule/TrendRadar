@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T17:21:06.716591+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-08T18:16:33.826954+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 18时16分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时16分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -59,6 +59,20 @@
           "time_info": "[00时19分 ~ 14时21分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 18时16分]"
+        },
+        {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
           "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
@@ -73,18 +87,16 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
           "ranks": [
-            13,
-            14,
-            15,
-            12
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "time_info": "[12时32分 ~ 18时16分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 17时21分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -302,6 +302,17 @@
           "time_info": "[15时18分 ~ 17时21分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时16分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -326,17 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时21分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -827,6 +827,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普关税政策引发避险潮 外资2025年扫货日股规模创12年新高",
+          "url": "https://flash.jin10.com/detail/20260108175028140800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
           "url": "https://wallstreetcn.com/livenews/3032726",
           "source": "华尔街见闻-快讯",
@@ -836,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普称2027年军费预算1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
@@ -959,6 +981,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108174643235800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普：与哥伦比亚总统讨论毒品问题 未来将在白宫会晤",
           "url": "https://wallstreetcn.com/livenews/3032774",
           "source": "华尔街见闻-快讯",
@@ -1028,7 +1061,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1051,7 +1084,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1099,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -1170,7 +1214,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1219,7 +1263,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1292,6 +1336,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "伊朗外交部长：德黑兰仍准备在相互尊重和共同利益的基础上与华盛顿展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260108174128551800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "伊朗舆论：美以发动又一轮心理战",
           "url": "https://www.toutiao.com/trending/7591961740225724479/",
           "source": "今日头条",
@@ -1331,6 +1386,19 @@
           "time_info": "15时18分"
         },
         {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时16分]"
+        },
+        {
           "title": "金价已在历史高位 央行为何还在买",
           "url": "https://www.toutiao.com/trending/7592763349536869894/",
           "source": "今日头条",
@@ -1343,25 +1411,13 @@
           "time_info": "[09时01分 ~ 11时23分]"
         },
         {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时21分]"
-        },
-        {
           "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
           "url": "https://flash.jin10.com/detail/20260108171213389800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1405,6 +1461,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时16分]"
+        },
+        {
           "title": "时隔七年 谷歌市值重新超越苹果",
           "url": "https://flash.jin10.com/detail/20260108054913345800",
           "source": "金十数据",
@@ -1415,18 +1484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -1488,8 +1545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时16分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
