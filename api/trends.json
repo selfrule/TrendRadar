@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T19:11:21.286109+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-01-10T20:23:05.888316+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[07时13分 ~ 20时23分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -84,8 +84,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时52分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 20时23分]"
+        },
+        {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 20时23分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -123,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[11时54分 ~ 20时23分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -164,17 +177,30 @@
           "time_info": "[10时52分 ~ 17时13分]"
         },
         {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
+          "title": "俄方感谢特朗普释放俄船员",
+          "url": "https://www.toutiao.com/trending/7593393480542961707/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            3,
-            4
+            22,
+            24,
+            27,
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 20时23分]"
+        },
+        {
+          "title": "会下令“抓捕”普京吗？特朗普回应",
+          "url": "https://v.ifeng.com/c/8pngFh4oVip",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
@@ -187,6 +213,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时00分 ~ 10时52分]"
+        },
+        {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -315,17 +354,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
-          "url": "https://flash.jin10.com/detail/20260110184939351800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普：价值40亿美元的委内瑞拉石油正被运往美国",
           "url": "https://wallstreetcn.com/livenews/3034378",
           "source": "华尔街见闻-快讯",
@@ -335,20 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "俄方感谢特朗普释放俄船员",
-          "url": "https://www.toutiao.com/trending/7593393480542961707/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时16分]"
         },
         {
           "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
@@ -410,28 +424,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
-          "url": "https://wallstreetcn.com/livenews/3034533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "会下令“抓捕”普京吗？特朗普回应",
-          "url": "https://v.ifeng.com/c/8pngFh4oVip",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
-        },
-        {
           "title": "美国总统特朗普：将决定哪些石油公司进入委内瑞拉。",
           "url": "https://flash.jin10.com/detail/20260110040940274800",
           "source": "金十数据",
@@ -463,19 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
         },
         {
           "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
@@ -613,6 +592,18 @@
           "time_info": "[07时13分 ~ 10时52分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
+          "url": "https://flash.jin10.com/detail/20260110184939351800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普：1月30日可能再次发生美国政府关门。",
           "url": "https://wallstreetcn.com/livenews/3034420",
           "source": "华尔街见闻-快讯",
@@ -623,6 +614,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
+          "url": "https://wallstreetcn.com/livenews/3034533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
@@ -697,6 +700,20 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
+          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普威胁美国石油巨头在委内瑞拉投资：你们不干有的是人干",
           "url": "https://wallstreetcn.com/livenews/3034473",
           "source": "华尔街见闻-快讯",
@@ -764,19 +781,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时13分 ~ 10时52分]"
-        },
-        {
-          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
-          "url": "https://wallstreetcn.com/livenews/3034516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
@@ -872,6 +876,18 @@
           "time_info": "[05时14分 ~ 07时13分]"
         },
         {
+          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
+          "url": "https://flash.jin10.com/detail/20260110180529633800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
           "url": "https://wallstreetcn.com/livenews/3034361",
           "source": "华尔街见闻-快讯",
@@ -894,6 +910,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
+          "url": "https://flash.jin10.com/detail/20260110180247697800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：相信总统特朗普将在达沃斯宣布一些不错的想法。 （2026年即将举办的）达沃斯将因（美国）住房市场而非常兴奋。 （关于房利美+房地美，即两房）信心存在于流动性之中。 两房IPO仍然可能迅速发生。 在推出50年期抵押贷款（产品）之前，我们还有其他的优先议题。 （对于抵押贷款债券）我们已经购买大约30亿美元。 正处于执行2000亿美元购买的过程中。 抵押贷款债券购买能够利好两房。 特朗普对金融机构购买独栋住宅的禁令很重要。",
@@ -965,6 +993,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 06时14分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
@@ -1108,17 +1147,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
-          "url": "https://flash.jin10.com/detail/20260110180529633800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
           "url": "https://wallstreetcn.com/livenews/3034372",
           "source": "华尔街见闻-快讯",
@@ -1152,17 +1180,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
-          "url": "https://flash.jin10.com/detail/20260110180247697800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3034371",
           "source": "华尔街见闻-快讯",
@@ -1183,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
@@ -1257,7 +1285,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1312,7 +1340,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1584,7 +1612,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -1624,6 +1652,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时00分 ~ 14时19分]"
+        },
+        {
+          "title": "为什么伊朗里亚尔汇率突然崩了？",
+          "url": "https://www.zhihu.com/question/1992998180908971473",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
@@ -1676,6 +1715,20 @@
           "time_info": "[14时19分 ~ 17时13分]"
         },
         {
+          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
+          "url": "https://wallstreetcn.com/livenews/3034520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时23分]"
+        },
+        {
           "title": "哈梅内伊就伊朗多地骚乱表态",
           "url": "https://www.toutiao.com/trending/7593189459336924691/",
           "source": "今日头条",
@@ -1702,29 +1755,30 @@
           "time_info": "[17时13分 ~ 19时11分]"
         },
         {
-          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
-          "url": "https://wallstreetcn.com/livenews/3034520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
-        },
-        {
           "title": "伊朗革命卫队警告称，维护革命成果和国家安全是“红线”。",
           "url": "https://flash.jin10.com/detail/20260110174816497800",
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时23分]"
+        },
+        {
+          "title": "伊朗军队呼吁公民保持警惕，以挫败敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260110164419679800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时23分]"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
@@ -1751,16 +1805,26 @@
           "time_info": "[03时14分 ~ 04时16分]"
         },
         {
-          "title": "伊朗军队呼吁公民保持警惕，以挫败敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260110164419679800",
+          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
+          "url": "https://flash.jin10.com/detail/20260110192253430800",
           "source": "金十数据",
           "ranks": [
-            12,
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社报道称，伊朗当局在德黑兰附近的巴赫雷斯坦镇逮捕了100名“武装暴乱分子”。",
+          "url": "https://flash.jin10.com/detail/20260110184952339800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。投资者注意力从委内瑞拉转向伊朗。",
@@ -1799,7 +1863,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -1829,8 +1893,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时52分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 20时23分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -1845,8 +1909,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[07时13分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -1859,8 +1923,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 20时23分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -1873,8 +1937,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -1884,11 +1948,12 @@
             6,
             24,
             26,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -1900,6 +1965,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "DeepSeekV4新模型或于春节前后发布",
@@ -1957,8 +2033,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时00分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时23分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -2230,8 +2306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时00分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时23分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
