@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:16:47.671558+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-01-19T20:29:31.391880+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时06分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 20时29分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 20时29分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -346,13 +346,27 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时29分]"
+        },
+        {
           "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
           "url": "https://flash.jin10.com/detail/20260119184647494800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -471,19 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 17时27分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时16分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -742,7 +743,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -769,6 +770,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "英国首相斯塔默：我认为美国总统特朗普并未考虑对格陵兰岛采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260119174911667800",
           "source": "金十数据",
@@ -778,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "挪威首相：特朗普总统的回信是为了回复我当天早些时候代表我自己以及芬兰总统亚历山大·斯图布发送的一条简短短信。",
@@ -797,7 +820,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -808,7 +831,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -824,6 +847,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "市场消息：挪威首相商店受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260119195627269800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国邀约60国加入特朗普版联合国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -835,13 +869,24 @@
           "time_info": "11时43分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260119195033650800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
           "url": "https://wallstreetcn.com/livenews/3039707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -868,6 +913,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "据美国财经媒体Semafor：美国总统特朗普周三在达沃斯召集首席执行官参加招待会。",
+          "url": "https://flash.jin10.com/detail/20260119194231884800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
           "url": "https://wallstreetcn.com/livenews/3039369",
           "source": "华尔街见闻-快讯",
@@ -885,7 +941,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -918,7 +974,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -992,7 +1048,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1105,6 +1161,17 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
+          "title": "伊朗官员：网络服务将于本周末恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3039748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "伊拉克外长访问伊朗 强调需就地区安全保持沟通",
           "url": "https://wallstreetcn.com/livenews/3039371",
           "source": "华尔街见闻-快讯",
@@ -1122,9 +1189,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗称本周内互联网将恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260119194007842800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
@@ -1151,8 +1229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时29分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
