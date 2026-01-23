@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:36:15.622489+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-01-23T13:21:51.137587+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -80,6 +80,17 @@
           "time_info": "[00时23分 ~ 09时03分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时21分]"
+        },
+        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -88,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -123,17 +134,6 @@
           "time_info": "[00时23分 ~ 09时03分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 12时36分]"
-        },
-        {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
           "url": "https://www.zhihu.com/question/1997263966708196399",
           "source": "知乎",
@@ -148,6 +148,28 @@
           "time_info": "[00时23分 ~ 07时14分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
@@ -158,28 +180,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时20分 ~ 09时03分]"
-        },
-        {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -252,6 +252,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -327,17 +341,15 @@
           "time_info": "[03时19分 ~ 04时17分]"
         },
         {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时21分]"
         },
         {
           "title": "特朗普起诉美国最大银行",
@@ -421,17 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -1065,8 +1066,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 13时21分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1519,8 +1520,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时21分]"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -1548,7 +1549,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -1571,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -1583,22 +1595,24 @@
           "url": "https://flash.jin10.com/detail/20260123120453959800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         }
       ]
     },
