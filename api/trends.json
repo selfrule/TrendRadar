@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T09:20:26.069416+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-25T12:33:37.187825+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 12时33分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -49,11 +49,12 @@
             8,
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时52分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时52分 ~ 12时33分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -95,6 +96,17 @@
           "time_info": "[03时50分 ~ 05时33分]"
         },
         {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
           "url": "https://flash.jin10.com/detail/20260225041411754800",
           "source": "金十数据",
@@ -104,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -123,9 +146,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
+          "url": "https://flash.jin10.com/detail/20260225121648684800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "超100分钟，特朗普打破国情咨文演讲时长纪录",
+          "url": "https://wallstreetcn.com/livenews/3058584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -139,6 +184,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时33分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 12时33分]"
         },
         {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
@@ -249,6 +306,17 @@
           "time_info": "[01时52分 ~ 02时48分]"
         },
         {
+          "title": "弗吉尼亚州州长斯潘伯格：美国民众正在为美国总统特朗普的贸易政策埋单。",
+          "url": "https://flash.jin10.com/detail/20260225121629384800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -271,6 +339,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "美国总统特朗普：美国“没有需要征服的疆界”。",
+          "url": "https://flash.jin10.com/detail/20260225120152923800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -282,15 +361,48 @@
           "time_info": "04时26分"
         },
         {
-          "title": "特朗普打还是不打，只是时间问题了",
-          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
-          "source": "凤凰网",
+          "title": "美国总统特朗普的国情咨文演讲持续1小时48分钟后结束，创历史之最。",
+          "url": "https://flash.jin10.com/detail/20260225120035789800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：看到委内瑞拉光明的新起点。",
+          "url": "https://flash.jin10.com/detail/20260225115648350800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：阻止了创纪录数量的毒品进入美国。",
+          "url": "https://flash.jin10.com/detail/20260225115639796800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普打破了比尔·克林顿保持的国情咨文演讲时长最长的纪录。",
+          "url": "https://flash.jin10.com/detail/20260225115157314800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -326,6 +438,39 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普称伊朗正研制能打到美国的导弹",
+          "url": "https://wallstreetcn.com/livenews/3058568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普国情咨文演讲大骂：这些人疯了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：向美国武装部队投入创纪录资金。",
+          "url": "https://flash.jin10.com/detail/20260225114938477800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
           "url": "https://wallstreetcn.com/livenews/3058233",
           "source": "华尔街见闻-快讯",
@@ -348,6 +493,61 @@
           "time_info": "00时58分"
         },
         {
+          "title": "特朗普：首选通过外交手段解决伊朗核问题",
+          "url": "https://wallstreetcn.com/livenews/3058565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：正与委内瑞拉“新总统”密切合作。",
+          "url": "https://flash.jin10.com/detail/20260225114451548800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普发表国情咨文再遭民主党议员抗议",
+          "url": "https://wallstreetcn.com/livenews/3058561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们干掉了墨西哥毒枭。",
+          "url": "https://flash.jin10.com/detail/20260225114239569800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3058321",
           "source": "华尔街见闻-快讯",
@@ -357,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已研发出能够威胁欧洲和美军海外基地的导弹。",
+          "url": "https://flash.jin10.com/detail/20260225114219629800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "报道：特朗普将呼吁出台新形式的减税措施",
@@ -387,9 +598,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普：正在与伊朗谈，他们希望达成协议。 不会让伊朗拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3058553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "特朗普政府被1000多家企业起诉",
@@ -401,12 +623,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普：美关税将依据其他法律条款继续维持有效",
+          "url": "https://wallstreetcn.com/livenews/3058548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -444,22 +677,24 @@
             17,
             18,
             15,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 12时33分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 12时33分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -475,15 +710,15 @@
           "time_info": "[00时57分 ~ 05时33分]"
         },
         {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "12时33分"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -558,6 +793,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时52分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 12时33分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -684,11 +931,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 12时33分]"
         },
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -699,8 +947,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 09时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时33分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -902,9 +1150,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 12时33分]"
         }
       ]
     },
@@ -976,7 +1224,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
