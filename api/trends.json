@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:50:44.396960+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T10:28:27.393235+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3772457",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
+        },
+        {
+          "title": "伊媒：美对伊朗提出5个关键条件",
+          "url": "https://news.ifeng.com/c/8tCiiAKahND",
+          "source": "凤凰网",
+          "ranks": [
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -30,17 +43,6 @@
           "time_info": "[00时46分 ~ 05时52分]"
         },
         {
-          "title": "伊媒：美对伊朗提出5个关键条件",
-          "url": "https://news.ifeng.com/c/8tCiiAKahND",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
-        },
-        {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
           "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
           "source": "凤凰网",
@@ -48,8 +50,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
@@ -61,19 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -361,7 +364,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -369,7 +372,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -378,11 +381,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -412,6 +416,17 @@
           "time_info": "[04时58分 ~ 06时44分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
@@ -431,9 +446,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -585,6 +611,39 @@
           "time_info": "06时44分"
         },
         {
+          "title": "要么放弃宽松，要么失控！鹰派的沃什，反而能让特朗普赢？",
+          "url": "https://flash.jin10.com/detail/20260518101006327800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
           "url": "https://flash.jin10.com/detail/20260518005103401800",
           "source": "金十数据",
@@ -624,7 +683,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -686,11 +745,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时28分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -710,9 +770,37 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时50分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -736,28 +824,46 @@
           "url": "https://wallstreetcn.com/articles/3772455",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时28分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
+          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
+          "url": "https://www.zhihu.com/question/2037925163765691524",
+          "source": "知乎",
           "ranks": [
-            3
+            15
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "强势美元会否压垮黄金有色价格",
+          "url": "https://www.toutiao.com/trending/7641006149717724723/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
