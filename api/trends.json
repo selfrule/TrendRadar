@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-05-26T10:34:10.275283+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-05-26T14:39:02.088098+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
+        },
+        {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
+        },
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
+        },
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
           "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
@@ -17,17 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗最高领袖就医情况曝光",
-          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -45,37 +79,16 @@
           "time_info": "[00时59分 ~ 07时57分]"
         },
         {
-          "title": "美军：在伊朗南部实施自卫打击",
-          "url": "https://www.cls.cn/detail/2381184",
-          "source": "财联社热门",
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "美军发动“自卫性”空袭伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
-          "source": "凤凰网",
-          "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
         },
         {
           "title": "伊朗官员：武装力量处于最高戒备，若敌人犯错必将回应",
@@ -257,17 +270,6 @@
           "time_info": "[07时57分 ~ 10时34分]"
         },
         {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "伊朗最高国家安全委员会秘书：伊方“不会投降或后退”",
           "url": "https://wallstreetcn.com/livenews/3108973",
           "source": "华尔街见闻-快讯",
@@ -278,6 +280,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时25分]"
+        },
+        {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
@@ -326,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 04时20分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 88 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042404325343893398",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "报道称伊朗将在美伊达成停战协议后重开霍尔木兹海峡，美油跌穿90美元关口",
@@ -437,7 +472,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -495,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：6月需要加息，对通胀激增视而不见已不再是选项。 越来越多迹象显示，通胀冲击正在向消费的其他部分蔓延。 即便伊朗战争今天结束，鉴于能源基础设施受损，仍需采取政策行动。 此次冲击对经济增长的负面影响将更为显著。 最新数据意味着通胀存在上行风险，经济增长存在下行风险。",
+          "url": "https://wallstreetcn.com/livenews/3109209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美军：在伊朗南部实施自卫打击",
@@ -720,7 +766,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -752,8 +798,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -773,9 +819,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 14时39分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -788,6 +847,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 04时20分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
@@ -814,27 +885,15 @@
           "time_info": "[06时02分 ~ 07时57分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "特朗普冰火两重天：一边准备最精彩演出庆生，一边支持率创新低",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
           "ranks": [
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时34分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -1054,6 +1113,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普称让沃什“自己来”，市场听懂了：美债收益率曲线惊现“更高更久”信号",
+          "url": "https://flash.jin10.com/detail/20260526101520950800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "一个危险信号正在闪烁：买美股和买美债的预期回报已几乎没差别",
+          "url": "https://flash.jin10.com/detail/20260526142116078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1063,11 +1150,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时39分]"
         }
       ]
     },
@@ -1103,23 +1191,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普称让沃什“自己来”，市场听懂了：美债收益率曲线惊现“更高更久”信号",
-          "url": "https://flash.jin10.com/detail/20260526101520950800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         }
       ]
     }
