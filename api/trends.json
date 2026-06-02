@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T13:24:11.647224+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-06-02T18:04:15.881061+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时04分]"
+        },
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
           "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
@@ -20,6 +32,18 @@
           "time_info": "[06时56分 ~ 13时24分]"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时04分]"
+        },
+        {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
           "url": "https://www.cls.cn/detail/2387782",
           "source": "财联社热门",
@@ -31,15 +55,15 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "特朗普用F开头词汇怒斥内塔尼亚胡",
@@ -99,17 +123,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时56分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
@@ -343,12 +356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-02）",
+          "url": "https://flash.jin10.com/detail/20260602174213706800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -356,11 +380,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时10分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[04时10分 ~ 18时04分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -375,22 +400,22 @@
           "time_info": "[04时10分 ~ 13时24分]"
         },
         {
-          "title": "伊朗向以色列发出最新警告",
-          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
           "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
           "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时04分]"
+        },
+        {
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -407,6 +432,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 08时09分]"
+        },
+        {
+          "title": "欧洲复兴开发银行行长：政府支持以减轻伊朗战争的影响必须是有针对性的、临时的。",
+          "url": "https://flash.jin10.com/detail/20260602175805512800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "伊朗革命卫队：将保持最高级别军事戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3112968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -431,6 +478,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 08时09分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时04分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -468,17 +527,6 @@
           "time_info": "[04时10分 ~ 08时09分]"
         },
         {
-          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
           "title": "伊朗：美对以违反停火协议负直接责任",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%AF%B9%E4%BB%A5%E8%BF%9D%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%B4%9F%E7%9B%B4%E6%8E%A5%E8%B4%A3%E4%BB%BB",
           "source": "百度热搜",
@@ -501,6 +549,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "据伊朗努尔新闻，伊朗革命卫队海军称，过去24小时内，24艘船只在获得伊朗许可后通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3112964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
           "url": "https://flash.jin10.com/detail/20260602054738014800",
           "source": "金十数据",
@@ -518,7 +577,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -545,6 +604,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "巴林内政部：因当前安全紧张局势，禁止公民前往伊朗和伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260602175150468800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2044559354460731245",
           "source": "知乎",
@@ -554,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "伊朗方面称，受损能源设施的修复进展快于预期。",
+          "url": "https://flash.jin10.com/detail/20260602174440154800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "伊朗谈判团队暂停通过中间人同美国对话",
@@ -625,7 +706,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
@@ -670,7 +751,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -708,6 +789,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 08时09分]"
+        },
+        {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
+          "title": "意法半导体美股盘前涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3112966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
@@ -790,8 +893,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
           "url": "https://wallstreetcn.com/livenews/3112620",
@@ -892,11 +1006,12 @@
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时04分]"
         },
         {
           "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
@@ -945,6 +1060,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短中期美债收益率涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3112662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时09分]"
+        },
+        {
+          "title": "黄金取代美债成全球第一大储备资产，央行超3.6万吨囤金接近历史峰值！",
+          "url": "https://flash.jin10.com/detail/20260602175301557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -973,20 +1117,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "短中期美债收益率涨超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3112662",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            27
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时09分]"
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     }
