@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:18:53.707316+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-07-09T21:43:26.314273+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 85,
+      "match_count": 92,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -99,6 +99,20 @@
           "time_info": "[01时20分 ~ 07时11分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 21时43分]"
+        },
+        {
           "title": "伊朗：将对美军袭击作出“令其后悔”的回应",
           "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
           "source": "凤凰网",
@@ -188,6 +202,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "伊朗重申他国“无权干涉”霍尔木兹海峡事务",
+          "url": "https://wallstreetcn.com/livenews/3131395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔省附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260709043050135800",
           "source": "金十数据",
@@ -210,6 +235,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "伊朗说霍尔木兹海峡通行能力已恢复至战前50%",
+          "url": "https://wallstreetcn.com/livenews/3131394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "据以色列KAN公共广播公司：以方消息人士称，美国在对伊朗发动袭击前已提前通知以色列。",
           "url": "https://flash.jin10.com/detail/20260709043024045800",
           "source": "金十数据",
@@ -227,22 +263,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 18时18分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
@@ -386,6 +409,17 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "花旗：预计2026年第四季度布伦特原油均价为70美元/桶，2027年均价为65美元/桶，前提是假设美国与伊朗最终达成协议，霍尔木兹海峡恢复开放。",
           "url": "https://flash.jin10.com/detail/20260709042848554800",
           "source": "金十数据",
@@ -461,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗南部阿巴斯港部分区域传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "伊朗外交部发言人：伊朗将坚定不移地维护国家利益，并行使国家主权。",
@@ -623,7 +668,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -826,6 +871,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "约旦称拦截8枚伊朗导弹",
+          "url": "https://wallstreetcn.com/livenews/3131375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "伊朗首席谈判代表卡利巴夫：霍尔木兹海峡只有在伊朗作出安排的情况下才会开放，而非因美国的威胁。",
           "url": "https://flash.jin10.com/detail/20260709093833714800",
           "source": "金十数据",
@@ -843,7 +899,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -925,6 +981,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
           "url": "https://flash.jin10.com/detail/20260709035932101800",
           "source": "金十数据",
@@ -942,7 +1009,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -956,12 +1023,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责美国违反备忘录发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3131365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -987,8 +1065,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时01分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时01分 ~ 21时43分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -1049,11 +1127,12 @@
             16,
             14,
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时08分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 21时43分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
@@ -1070,6 +1149,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时20分 ~ 18时18分]"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 21时43分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -1094,19 +1186,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时20分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 18时18分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -1312,6 +1391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时09分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时43分]"
         },
         {
           "title": "特朗普公开吐槽所谓中国问题专家",
@@ -1535,17 +1626,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "美国总统特朗普：我没有告诉委内瑞拉反对派领袖马查多不要回委内瑞拉。",
           "url": "https://flash.jin10.com/detail/20260709064446082800",
           "source": "金十数据",
@@ -1621,12 +1701,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国贸易代表格里尔：特朗普希望降低与墨西哥的贸易逆差。",
+          "url": "https://wallstreetcn.com/livenews/3131369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1643,6 +1734,18 @@
           "time_info": "[01时20分 ~ 09时59分]"
         },
         {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 21时43分]"
+        },
+        {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "url": "https://www.cls.cn/detail/2421032",
           "source": "财联社热门",
@@ -1652,18 +1755,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时10分 ~ 14时04分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 18时18分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -1713,6 +1804,39 @@
           "time_info": "[04时57分 ~ 06时01分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3131392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
           "url": "https://wallstreetcn.com/livenews/3130877",
           "source": "华尔街见闻-快讯",
@@ -1733,6 +1857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.08%，标普500指数涨0.2%，纳指涨0.2%。美光科技(MU.O)涨超6%，公司到2035年在美投资规模将扩大至逾2500亿美元。高通(QCOM.O)涨1.9%，Meta Platforms(META.O)跌3.4%，公司计划于9月开始生产一款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260709213031263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "报道：SK海力士美股上市获超7倍超额认购，预计募资约245亿美元",
