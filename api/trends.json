@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T19:02:13.981377+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-07-23T20:25:38.612492+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -72,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -342,7 +342,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -457,6 +457,17 @@
           "time_info": "16时12分"
         },
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3138855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "伊朗媒体Fars News：布什尔附近传出两声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260723052955835800",
           "source": "金十数据",
@@ -485,7 +496,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -570,8 +581,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 20时25分]"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -586,18 +609,6 @@
           "time_info": "[00时15分 ~ 16时12分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 19时02分]"
-        },
-        {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
@@ -607,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 20时25分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -622,6 +633,19 @@
           "time_info": "[07时55分 ~ 13时17分]"
         },
         {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 20时25分]"
+        },
+        {
           "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
@@ -633,16 +657,15 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌披露持有SpaceX股份940亿美元",
+          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "source": "金十数据",
           "ranks": [
-            7,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 19时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "谷歌A二季度分析师电话会要点总结",
@@ -779,6 +802,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
+          "url": "https://flash.jin10.com/detail/20260723194312680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "谷歌自由现金流数十年来首次转负",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%87%AA%E7%94%B1%E7%8E%B0%E9%87%91%E6%B5%81%E6%95%B0%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E8%B4%9F",
           "source": "百度热搜",
@@ -788,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
@@ -807,7 +852,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -815,7 +860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -826,8 +871,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时56分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 20时25分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -921,7 +966,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -965,9 +1010,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特斯拉美股盘后跌幅扩大至5%，SpaceX涨0.7%。 马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
@@ -998,7 +1054,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1012,12 +1068,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3138842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3138834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1052,8 +1130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 20时25分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -1080,6 +1158,30 @@
           "time_info": "[07时55分 ~ 09时52分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 20时25分]"
+        },
+        {
+          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
+          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
           "url": "https://flash.jin10.com/detail/20260723034521965800",
           "source": "金十数据",
@@ -1091,17 +1193,15 @@
           "time_info": "04时07分"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260723195405095800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 19时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
@@ -1197,6 +1297,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://wallstreetcn.com/livenews/3138407",
           "source": "华尔街见闻-快讯",
@@ -1247,8 +1358,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 19时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 20时25分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -1372,7 +1483,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -1456,15 +1567,37 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "黄仁勋：美国不该限制DeepSeek、Kimi等中国模型，优秀的开源模型就该被用起来",
           "url": "https://wallstreetcn.com/livenews/3138806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "如何看待梁文锋称不要求员工长期加班？为啥刘强东、梁文锋等大厂创始人都在反过度加班但这仍是大厂的常态？",
+          "url": "https://www.zhihu.com/question/2063652081714423010",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -1532,6 +1665,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
+          "url": "https://wallstreetcn.com/livenews/3138866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     }
