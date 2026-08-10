@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:17:09.965282+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-08-10T17:08:23.632957+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -55,8 +55,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 13时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 17时08分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 17时08分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 13时17分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -106,6 +106,29 @@
           "time_info": "08时59分"
         },
         {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 17时08分]"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -129,6 +152,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 05时22分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
@@ -167,17 +201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时20分]"
-        },
-        {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 13时17分]"
         },
         {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
@@ -331,6 +354,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "伊朗军方称美军敢来就斩断他们的脚",
+          "url": "https://flash.jin10.com/detail/20260810164954295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
           "url": "https://flash.jin10.com/detail/20260810081200980800",
           "source": "金十数据",
@@ -342,21 +376,76 @@
           "time_info": "08时59分"
         },
         {
+          "title": "伊朗称谈判代表将在“适当的时候”访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3147367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
           "url": "https://flash.jin10.com/detail/20260810122646591800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "伊朗：乌克兰必须为袭击伊朗货轮赔偿",
+          "url": "https://flash.jin10.com/detail/20260810163758674800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗正在改写霍尔木兹航线？",
+          "url": "https://flash.jin10.com/detail/20260810163601223800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗：与阿曼有关霍尔木兹海峡的协议包含海上服务费。",
+          "url": "https://wallstreetcn.com/livenews/3147358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放海峡需美国结束封锁并予以赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3147356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -369,8 +458,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 13时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 17时08分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -423,6 +512,19 @@
           "time_info": "[01时22分 ~ 05时22分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 17时08分]"
+        },
+        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
@@ -436,18 +538,6 @@
           "time_info": "[05时22分 ~ 07时21分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
           "url": "https://wallstreetcn.com/livenews/3147162",
           "source": "华尔街见闻-快讯",
@@ -457,6 +547,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 17时08分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -485,17 +588,15 @@
           "time_info": "[03时25分 ~ 05时22分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            9,
-            11,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时08分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -508,17 +609,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时22分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -545,6 +635,17 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
           "url": "https://flash.jin10.com/detail/20260810082438238800",
           "source": "金十数据",
@@ -562,7 +663,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -578,13 +679,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
           "url": "https://flash.jin10.com/detail/20260810122310879800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -659,7 +771,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -667,7 +779,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
@@ -679,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "城堡证券今年来首次喊多黄金：五大催化剂共振有望引爆金价",
+          "url": "https://flash.jin10.com/detail/20260810165318145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "就业市场降温推动金价上周大幅反弹，现货黄金多头占比现略微占优，白银多头占比高达88%；霍尔木兹海峡开放步入关键时刻，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -695,14 +818,53 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek为何重启融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
         {
           "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
           "url": "https://flash.jin10.com/detail/20260810102929259800",
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
+          "url": "https://flash.jin10.com/detail/20260810102945512800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -719,28 +881,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
-          "url": "https://flash.jin10.com/detail/20260810102945512800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时08分]"
         }
       ]
     },
